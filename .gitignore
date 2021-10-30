@@ -4,3 +4,6 @@ Thumbs.db
 
 # Packages
 node_modules
+
+# Secret file
+.env
