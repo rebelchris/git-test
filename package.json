@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/rebelchris/git-test#readme",
   "dependencies": {
-    "fastify": "^3.22.1"
+    "fastify": "^3.29.4"
   }
 }
